@@ -24,6 +24,7 @@ a{
   font-family: 'Inder', sans-serif; 
   line-height: 28px; 
   margin-bottom: 15px;
+  font-size: 18px;
 }
 .main__text-heading {
   font-family: 'Trocchi', serif; 
@@ -48,4 +49,7 @@ a{
 }
 #p1{
   text-align: center;
+}
+.kan{
+  boder-style:  ;
 }
